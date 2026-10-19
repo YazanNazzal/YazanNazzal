@@ -17,10 +17,18 @@
 <p><a href="https://warraq-pdf-assistant.vercel.app/"><img src="warraq.svg" width="100%" alt="Warraq. A bilingual assistant for PDF, Word, TXT, and PowerPoint. Hybrid retrieval, contextual follow-ups, and answers grounded in cited sources. Stack: JavaScript, Gemini API, PDF.js" /></a></p>
 <p><a href="https://github.com/yazan77nazzl/Warraq-PDF-Assistant">Warraq source code &#8599;</a></p>
 <p><a href="https://portfoliowebsite-eta-teal.vercel.app/"><img src="portfolio.svg" width="49%" alt="Personal portfolio. A home for my experience and work. Responsive layouts, project filters, and accessible motion preferences. Stack: React, TypeScript, Vite" /></a> <img src="apartments.svg" width="49%" alt="Apartment reservation. A Flutter mobile project focused on apartment reservations and booking interfaces. Stack: Flutter, Dart" /></p>
-<p><a href="https://github.com/YazanNazzal/math-tutor-website"><img src="store.svg" width="49%" alt="Math Tutor Website. Arabic and English feedback image studio. React, TypeScript, Vite." /></a> <a href="https://github.com/YazanNazzal/EmployeesAPI-main"><img src="guessing-game.svg" width="49%" alt="Employees API. Company and employee management API. C#, ASP.NET Core." /></a></p>
+<p><a href="https://github.com/YazanNazzal/math-tutor-website"><img src="store.svg?v=5ac30903" width="49%" alt="math-tutor-website. Arabic and English feedback image studio. React, TypeScript, Vite." /></a> <a href="https://github.com/YazanNazzal/EmployeesAPI-main"><img src="guessing-game.svg?v=bd25c3cc" width="49%" alt="EmployeesAPI-main. Company and employee management API. C#, ASP.NET Core." /></a></p>
 <a name="stack"></a><h2>05 / Toolkit</h2><table><tr><td width="25%"><strong>AI coding tools</strong></td><td><code>Codex</code> <code>Claude Code</code> <code>Cursor</code> <code>GitHub Copilot</code></td></tr><tr><td><strong>Agent engineering</strong></td><td><code>Claude API</code> <code>OpenAI API</code> <code>LangGraph</code> <code>LangChain</code> <code>MCP</code> <code>RAG</code> <code>Python</code></td></tr><tr><td><strong>Web &amp; mobile</strong></td><td><code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>Angular</code> <code>React Native</code> <code>Flutter</code></td></tr><tr><td><strong>Backend &amp; data</strong></td><td><code>C#</code> <code>.NET Core</code> <code>SQL Server</code> <code>MongoDB</code> <code>Firebase</code> <code>REST APIs</code></td></tr></table>
 <details><summary>More about me</summary><p>Bachelor of Computer System Engineering &mdash; Arab American University.</p><p>Arabic: Native &middot; English: Professional working.</p></details><hr/>
 <p align="center">Open to project collaborations and engineering opportunities.<br/><a href="https://www.linkedin.com/in/yazan-nazzal-124287239/">Let's connect on LinkedIn &#8599;</a></p>
+
+
+
+
+
+
+
+
 
 
 
