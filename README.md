@@ -17,16 +17,11 @@
 <h3>React Developer · HexaSol</h3><p>Nov 2022 — Apr 2023</p><p>React applications, Hakini mobile development, and the AZEZA MVP.</p>
 <h3>Full-Stack Developer Trainee · IConnect Tech</h3><p>Aug 2022 — Oct 2022</p><p>Angular and .NET Core training, API development, and database design.</p>
 <a name="projects"></a><h2>04 / Projects</h2>
-<p><a href="https://github.com/YazanNazzal/Lumma"><img src="project-cards/lumma.svg" width="100%" alt="Lumma — Customizable E-commerce Platform" /></a></p>
-<p><a href="https://github.com/YazanNazzal/Warraq-PDF-Assistant"><img src="project-cards/warraq.svg" width="100%" alt="Warraq-PDF-Assistant" /></a></p>
-<p><a href="https://github.com/YazanNazzal/yazan-portfolio"><img src="project-cards/portfolio.svg" width="100%" alt="yazan-portfolio" /></a></p>
-<p><a href="https://github.com/YazanNazzal/apartment_reservation_app"><img src="project-cards/apartment-reservation.svg" width="100%" alt="apartment_reservation_app" /></a></p>
-<p><a href="https://github.com/YazanNazzal/math-tutor-website"><img src="project-cards/math-tutor.svg" width="100%" alt="math-tutor-website" /></a></p>
-<p><a href="https://github.com/YazanNazzal/EmployeesAPI-main"><img src="project-cards/employees-api.svg" width="100%" alt="EmployeesAPI-main" /></a></p>
-<p><a href="https://github.com/YazanNazzal/HakiniScreen"><img src="project-cards/hakini.svg" width="100%" alt="HakiniScreen" /></a></p>
-<p><a href="https://github.com/YazanNazzal/first-app-main"><img src="project-cards/first-app.svg" width="100%" alt="first-app-main" /></a></p>
-<p><a href="https://github.com/YazanNazzal/king-of-shisha"><img src="project-cards/king-store.svg" width="100%" alt="king-of-shisha" /></a></p>
-<p><a href="https://github.com/YazanNazzal/blossom-dreams"><img src="project-cards/blossom-dreams.svg" width="100%" alt="blossom-dreams" /></a></p>
+<p><a href="https://github.com/YazanNazzal/Lumma"><img src="project-cards/lumma.svg" width="400" alt="Lumma — Customizable E-commerce Platform" /></a> <a href="https://github.com/YazanNazzal/Warraq-PDF-Assistant"><img src="project-cards/warraq.svg" width="400" alt="Warraq-PDF-Assistant" /></a></p>
+<p><a href="https://github.com/YazanNazzal/yazan-portfolio"><img src="project-cards/portfolio.svg" width="400" alt="yazan-portfolio" /></a> <a href="https://github.com/YazanNazzal/apartment_reservation_app"><img src="project-cards/apartment-reservation.svg" width="400" alt="apartment_reservation_app" /></a></p>
+<p><a href="https://github.com/YazanNazzal/math-tutor-website"><img src="project-cards/math-tutor.svg" width="400" alt="math-tutor-website" /></a> <a href="https://github.com/YazanNazzal/EmployeesAPI-main"><img src="project-cards/employees-api.svg" width="400" alt="EmployeesAPI-main" /></a></p>
+<p><a href="https://github.com/YazanNazzal/HakiniScreen"><img src="project-cards/hakini.svg" width="400" alt="HakiniScreen" /></a> <a href="https://github.com/YazanNazzal/first-app-main"><img src="project-cards/first-app.svg" width="400" alt="first-app-main" /></a></p>
+<p><a href="https://github.com/YazanNazzal/king-of-shisha"><img src="project-cards/king-store.svg" width="400" alt="king-of-shisha" /></a> <a href="https://github.com/YazanNazzal/blossom-dreams"><img src="project-cards/blossom-dreams.svg" width="400" alt="blossom-dreams" /></a></p>
 <a name="stack"></a><h2>05 / Toolkit</h2><h3>AI coding tools</h3><p><code>Codex</code> <code>Claude Code</code> <code>Cursor</code> <code>GitHub Copilot</code></p>
 <h3>Agent engineering</h3><p><code>Claude API</code> <code>OpenAI API</code> <code>LangGraph</code> <code>LangChain</code> <code>MCP</code> <code>RAG</code> <code>Python</code></p>
 <h3>Web &amp; mobile</h3><p><code>React</code> <code>TypeScript</code> <code>JavaScript</code> <code>Angular</code> <code>React Native</code> <code>Flutter</code></p>
